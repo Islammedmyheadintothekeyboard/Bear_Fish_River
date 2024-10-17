@@ -16,7 +16,7 @@ def BearFishRiver():
 
   revir = River(RIVER_SIZE, START_BEARS, START_FISH)
   print(revir)
-  '''day = 0
+  day = 0
   done = False
   for day in range(DAYS_SIMULATED):
     print(f"\n\nDay: {day+1}")
@@ -26,7 +26,7 @@ def BearFishRiver():
     print(f"Ending Poplation: {revir.population} animals")
     print(revir)
     day += 1
-    sleep(5)'''
+    sleep(5)
 
 if __name__ == "__main__":
   BearFishRiver()
