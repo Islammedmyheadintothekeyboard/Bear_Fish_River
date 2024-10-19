@@ -1,1 +1,5 @@
-1. 
+1. I think I will need two for loops to loop through the river because I will be able to access each index and do the neccasary actions for each index.
+2. They each add or remove something from the item
+3. All of the other methods other than collision are called from within collision based off of the circumstance
+4. They are all actions and attributes that the bear class specifically has and doesn't share with fish class.
+5. The tile that the animal moved from should become a water tile, and the place that the animal is moving to should become the animal tile. Yes, I think the board should be redrawn to the animal previous position.

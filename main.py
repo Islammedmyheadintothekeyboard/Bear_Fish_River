@@ -8,9 +8,9 @@ from ecosystem import *
 from time import sleep
 
 DAYS_SIMULATED = 30
-RIVER_SIZE = 4
-START_BEARS = 5
-START_FISH = 5
+RIVER_SIZE = 8
+START_BEARS = 35
+START_FISH = 35
 
 def BearFishRiver():
 
